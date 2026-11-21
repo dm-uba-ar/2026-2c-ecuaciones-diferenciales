@@ -39,7 +39,7 @@ De acuerdo al régimen de correlatividades vigente, para poder cursar esta mater
 - [**Práctica 0**](practica0.pdf): Repaso.
 - [**Práctica 1**](practica1.pdf): EDOs, y EDPs de primer orden.
 - [**Práctica 2**](P2_seriesfourier_revisada.pdf): Series de Fourier y separación de variables.
-- [**Práctica 3**](P3_laplaciano_revisada (2).pdf): Ecuaciones de Laplace y de Poisson.
+- [**Práctica 3**](P3_laplaciano_revisada\ (2).pdf): Ecuaciones de Laplace y de Poisson.
 - [**Práctica 4**](P4_transformada_revisada.pdf): Transformada de Fourier.
 - [**Práctica 5**](P5_calor_revisada.pdf): La ecuación de difusión.
 - [**Práctica 6**](P6_ondas_revisada.pdf): La ecuación de ondas.
